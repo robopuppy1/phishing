@@ -1,4 +1,4 @@
-baseURL =  "localhost"
+baseURL =  "https://glistening-creponne-a923db.netlify.app"
 title =  "Phishing"
 languageCode = "en-us"
 theme =  "hello-friend-ng"
