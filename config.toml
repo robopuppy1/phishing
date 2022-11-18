@@ -1,4 +1,4 @@
-baseURL =  ""
+baseURL =  "https://silly-rugelach-557005.netlify.app"
 title =  "Phishing"
 languageCode = "en-us"
 theme =  "hello-friend-ng"
