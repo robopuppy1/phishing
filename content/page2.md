@@ -8,6 +8,5 @@ tags:
   - untagged
 ---
 
-### All illustrations by Adeline Pereira ###
 
 ![Phishing Page 2](/phish2.png)

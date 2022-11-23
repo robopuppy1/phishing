@@ -21,7 +21,13 @@ disableSitemap = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hi, I'm Adeline with Girls who code. Welcome to my short blog on Phishing!!"
+  homeSubtitle = '''Hi, I'm Adeline with Girls who code. Welcome to my short presentation on Phishing!!
+  I made this presentation as part of my Girls Who Code Cybersecurity project.
+  I made a short comic as opposed to a detailed website because I hoped people would become more
+  interested about Cybersecurity if they read through a fun comic instead of a serious article.
+  Hopefully you enjoy the comic and understand more about phishing from this story.
+  If you are reading this on a mobile device please click the menu symbol at the top right of the page 
+  to navigate through the presentation.'''
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -80,7 +86,7 @@ disableSitemap = false
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by Adeline Pereira"
+      "All illustrations made with &#10084; by Adeline"
     ]
 
   # Colors for favicons
@@ -115,7 +121,7 @@ disableSitemap = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-     path     = "/img/phish_logo.png"
+     path     = "/img/phish_logo_2.png"
      alt      = "PhishingLogo"
      maxWidth = "400px"
 
@@ -124,20 +130,36 @@ disableSitemap = false
 [menu]
   [[menu.main]]
     identifier = "Intro"
-    name       = "Introduction"
+    name       = "Intro"
     url        = "intro/"
   [[menu.main]]
     identifier = "Page1"
-    name       = "Page 1"
+    name       = "Pg 1"
     url        = "page1/"
   [[menu.main]]
     identifier = "Page2"
-    name       = "Page 2"
+    name       = "Pg 2"
     url        = "page2/"
   [[menu.main]]
     identifier = "Page3"
-    name       = "Page 3"
+    name       = "Pg 3"
     url        = "page3/"
+  [[menu.main]]
+    identifier = "Page4"
+    name       = "Pg 4"
+    url        = "page4/"
+  [[menu.main]]
+    identifier = "Page5"
+    name       = "Pg 5"
+    url        = "page5/"
+  [[menu.main]]
+    identifier = "Page6"
+    name       = "Pg 6"
+    url        = "page6/"
+  [[menu.main]]
+    identifier = "Page7"
+    name       = "Pg 7"
+    url        = "page7/"
 
 
 [markup.goldmark.renderer] 
