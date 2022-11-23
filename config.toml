@@ -133,6 +133,10 @@ disableSitemap = false
     name       = "Intro"
     url        = "intro/"
   [[menu.main]]
+    identifier = "Cover"
+    name       = "Cover"
+    url        = "cover/"
+  [[menu.main]]
     identifier = "Page1"
     name       = "Pg 1"
     url        = "page1/"
@@ -160,7 +164,10 @@ disableSitemap = false
     identifier = "Page7"
     name       = "Pg 7"
     url        = "page7/"
-
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Process Reflection Questions"
+    url        = "posts/"
 
 [markup.goldmark.renderer] 
 unsafe= true
