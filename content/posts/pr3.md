@@ -11,5 +11,5 @@ tags:
 
 ### Why did you choose this format for your project? ###
 
-I made a short comic as opposed to a detailed website because I hoped people would become more interested about Cybersecurity if read through a fun comic vs a serious article.
+ I enjoy art, reading comics and anime. I made a short comic instead of a text heavy website because I felt people would enjoy learning  about Cybersecurity and phishing if the content was presented through a fun comic.
 

@@ -11,6 +11,6 @@ tags:
 
 ### How did you come up with this topic and how is it relevant to your community? Why Is it important to raise awareness about this cyber threat? ###
 
-I was thinking while in school and found out that I could be creative with a phisher and a fisher, promoting me to chose phishing as my topic. I’ve seen plenty of phishing attempts around my community, however they aren’t as obvious as people make it out to be. That’s why I chose to raise awareness about phishing, since it’s very deceptive and not easy to catch.
+I was thinking about the cyber threat topic and realized that the words "phisher" and "fisher" sounded very similar. That made me decide to chose phishing as my topic and create illustrations to reflect the play on words. I’ve heard and seen plenty of phishing attempts recently. Even though it is very common, it is not easy to identify. That’s why I decided to do something about raising awareness around this topic of phishing.
 
 
